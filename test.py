@@ -23,7 +23,7 @@ class SimpleView(discord.ui.View):
         await interaction.response.send_message("Hello world")
         
 
-
+print("Hello world!")
 
 
 #calculations
