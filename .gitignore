@@ -1,1 +1,4 @@
 /.env
+ignore/
+venv/
+__pycache__/
